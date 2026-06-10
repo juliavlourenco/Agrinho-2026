@@ -2,7 +2,9 @@
 # Sobre
 Site mostrando como a IA revoluciona o Agro com sustentabilidade e tecnologia.
 # Recursos utilizados
-HTML5
-CSS
-JavaScript 
+- HTML5
+  
+- CSS
+
+- JavaScript 
 

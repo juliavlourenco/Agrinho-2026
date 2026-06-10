@@ -1,4 +1,4 @@
-# Agrinho-2026 
+# Projeto Agrinho 2026 
 # Sobre
 IA revolucionando o agro com sustentabilidade e tecnologia."
 # Recursos utilizados

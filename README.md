@@ -12,3 +12,4 @@ Site mostrando como a IA revoluciona o Agro com sustentabilidade e tecnologia.
 https://agrinho-2026-gules-kappa.vercel.app/
 
 # Link do GitHub Pages:
+https://juliavlourenco.github.io/Agrinho-2026/

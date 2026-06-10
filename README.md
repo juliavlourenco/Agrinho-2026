@@ -3,6 +3,6 @@
 IA revolucionando o agro com sustentabilidade e tecnologia."
 # Recursos utilizados
 HTML5
-CSS3
+CSS
 JavaScript 
 
